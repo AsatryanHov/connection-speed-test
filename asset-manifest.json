@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/connection-speed-test/static/css/main.05675882.css",
-    "main.js": "/connection-speed-test/static/js/main.bab4ff0c.js",
+    "main.js": "/connection-speed-test/static/js/main.0c95967e.js",
     "static/js/453.ae79c5cc.chunk.js": "/connection-speed-test/static/js/453.ae79c5cc.chunk.js",
     "index.html": "/connection-speed-test/index.html",
     "main.05675882.css.map": "/connection-speed-test/static/css/main.05675882.css.map",
-    "main.bab4ff0c.js.map": "/connection-speed-test/static/js/main.bab4ff0c.js.map",
+    "main.0c95967e.js.map": "/connection-speed-test/static/js/main.0c95967e.js.map",
     "453.ae79c5cc.chunk.js.map": "/connection-speed-test/static/js/453.ae79c5cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05675882.css",
-    "static/js/main.bab4ff0c.js"
+    "static/js/main.0c95967e.js"
   ]
 }
